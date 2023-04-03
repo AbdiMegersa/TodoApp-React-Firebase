@@ -2,7 +2,9 @@
 
 using 
 #ReactJs
-#Firebase&Firestore
+#Firebase
+#Firestore
+#Tailwind
 
 
 
